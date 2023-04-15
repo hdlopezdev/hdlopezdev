@@ -4,8 +4,12 @@ Soy analista de Pruebas de Software con habilidad en el diseño y creación de p
 ### Encuentrame en:
 - [Linkedin](https://www.linkedin.com/in/hugo-david-lopez/)
 
-## Tecnologías:
+### Tecnologías:
 [![Azure devOps](https://img.shields.io/badge/Azure-999999?style=for-the-badge&logo=azure&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+
+- 📫 Cómo contactar conmigo: hdlop3z@gmail.com
 <!--
 **hdlopezdev/hdlopezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
